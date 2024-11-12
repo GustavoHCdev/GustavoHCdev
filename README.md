@@ -12,4 +12,4 @@ Currently, I am improving my skills in software development and data analysis. M
 
 📫 **Contact:**
 - Email: gustavo.gh166@gmail.com
-- LinkedIn: [Gustavo Caetano] https://www.linkedin.com/in/gustavo-caetano-6b6123bb/
+- Linkedin: [Gustavo Caetano] https://www.linkedin.com/in/gustavo-caetano-6b6123bb/
